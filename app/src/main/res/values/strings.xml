@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">New Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="enter_number_of_days">Enter number of days</string>
+    <string name="minicat_0_kg_0_tk">MiniCat: 0 kg → 0 Tk</string>
+    <string name="normal_0_kg_0_tk">Normal: 0 kg → 0 Tk</string>
+    <string name="rice_cost_calculator">Rice Cost Calculator</string>
+</resources>
